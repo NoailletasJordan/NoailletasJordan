@@ -1,4 +1,8 @@
-###  Bonjour / Hi there 👋
+###  Bonjour 👋
+02/2021: Migré sur Gitlab pour le travail
+
+###  Hi there 👋
+02/2021: Switched to Gitlab for work
 
 <!--
 **NoailletasJordan/NoailletasJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
