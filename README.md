@@ -1,6 +1,3 @@
-###  Bonjour 👋
-02/2021: Migré sur Gitlab pour le travail
-
 ###  Hi there 👋
 02/2021: Switched to Gitlab for work
 
