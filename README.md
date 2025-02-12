@@ -1,5 +1,5 @@
 ###  Hi there 👋
-*feb 2021: Gone on Gitlab for work*
+*feb 2021: Moved to Gitlab for work*
 
 <!--
 **NoailletasJordan/NoailletasJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
